@@ -19,12 +19,15 @@ main:
   - name: Outreach
     url: outreach
     weight: 50
-  - name: Events
-    url: event
-    weight: 60
+  - name: Teaching
+    url: teaching
+    weight: 60 
   - name: Contact
     url: contact
-    weight: 70
+    weight: 70 
+  - name: Events
+    url: event
+    weight: 80
   - name: Tour
     url: tour
     weight: 80
