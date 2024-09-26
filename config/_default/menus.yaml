@@ -10,7 +10,6 @@ main:
 
   - name: Research
     url: research
-    identifier: research
     weight: 20
   - name: Additive and Advanced Manufacturing, Precision Control
     parent: research
