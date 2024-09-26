@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Test
-        Research Group
+        MACS LAB
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Test Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The MACS Lab investigates theories and practice of dynamic systems and controls, to seek better understanding and engineering of the systematic interplay between data, system, and control in machines and automation processes that positively impact our lives.
   
   - block: collection
     content:
