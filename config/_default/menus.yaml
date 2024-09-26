@@ -9,6 +9,7 @@ main:
     weight: 10  
 
   - name: Research
+    identifier: research
     url: research
     weight: 20
   - name: Additive and Advanced Manufacturing, Precision Control
