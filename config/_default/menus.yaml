@@ -8,9 +8,11 @@ main:
     identifier: research
     weight: 10
   - name: Additive and Advanced Manufacturing, Precision Control
+    parent: research
     url: research/Additive_Advanced_Manufacturing_Precision_Control
     weight: 10
   - name: Collaborative Robots, Visual Servo, Autonomy under Limited Sensing
+    parent: research
     url: research/Collaborative_Robots_Visual_Servo
     weight: 20
 
