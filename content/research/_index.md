@@ -6,7 +6,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Research
       subtitle: ''
       text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
@@ -32,5 +32,5 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: showcase
 ---
