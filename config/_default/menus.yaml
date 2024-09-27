@@ -7,34 +7,36 @@ main:
   - name: Home
     url: /
     weight: 10  
-
   - name: Research
-    identifier: research
+    url: research
     weight: 20
-  - name: Additive and Advanced Manufacturing, Precision Control
-    parent: research
-    url: research/Additive_Advanced_Manufacturing_Precision_Control
-    weight: 10
-  - name: Collaborative Robots, Visual Servo, Autonomy under Limited Sensing
-    parent: research
-    url: research/Collaborative_Robots_Visual_Servo
-    weight: 20
-  - name: Adaptive Control and Active Vibration Rejection
-    parent: research
-    url: research/Adaptive_Control_Active_Vibration_Rejection
-    weight: 30
-  - name: Science of Robotic Inspection of Complex Reflective Parts
-    parent: research
-    url: research/Science_Robotic_Inspection_Complex_Reflective_Parts
-    weight: 40
-  - name: Tactile Sensing for Intelligent Manipulation
-    parent: research
-    url: research/Tactile_Sensing_Intelligent_Manipulation
-    weight: 50
-  - name: Advanced Composite Manufacturing
-    parent: research
-    url: research/Advanced_Composite_Manufacturing
-    weight: 60
+#  - name: Research
+#    identifier: research
+#    weight: 20
+#  - name: Additive and Advanced Manufacturing, Precision Control
+#    parent: research
+#    url: research/Additive_Advanced_Manufacturing_Precision_Control
+#    weight: 10
+#  - name: Collaborative Robots, Visual Servo, Autonomy under Limited Sensing
+#    parent: research
+#    url: research/Collaborative_Robots_Visual_Servo
+#    weight: 20
+#  - name: Adaptive Control and Active Vibration Rejection
+#    parent: research
+#    url: research/Adaptive_Control_Active_Vibration_Rejection
+#    weight: 30
+#  - name: Science of Robotic Inspection of Complex Reflective Parts
+#    parent: research
+#    url: research/Science_Robotic_Inspection_Complex_Reflective_Parts
+#    weight: 40
+#  - name: Tactile Sensing for Intelligent Manipulation
+#    parent: research
+#    url: research/Tactile_Sensing_Intelligent_Manipulation
+#    weight: 50
+#  - name: Advanced Composite Manufacturing
+#    parent: research
+#    url: research/Advanced_Composite_Manufacturing
+#    weight: 60
 
   - name: People
     url: people
