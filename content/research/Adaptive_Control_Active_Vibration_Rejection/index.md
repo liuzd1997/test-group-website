@@ -1,5 +1,5 @@
 ---
-title: Additive and Advanced Manufacturing, Precision Control
+title: Adaptive Control and Active Vibration Rejection
 date: 2022-10-24
 
 type: landing
