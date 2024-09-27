@@ -1,5 +1,11 @@
 ---
+title: Publications
 
+# Listing view
+view: compact
+
+
+sections:
   - block: markdown
     content:
       title:
@@ -19,5 +25,4 @@
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
 ---
