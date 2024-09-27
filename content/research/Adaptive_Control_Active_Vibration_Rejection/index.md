@@ -1,9 +1,8 @@
 ---
-title: Publications
+title: Additive and Advanced Manufacturing, Precision Control
+date: 2022-10-24
 
-# Listing view
-view: compact
-
+type: landing
 
 sections:
   - block: markdown
