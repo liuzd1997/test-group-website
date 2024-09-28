@@ -27,7 +27,7 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       #appointment_url: 'https://calendly.com'
       contact_links:
-        - icon: browser
+        - icon: comments
           icon_pack: fas
           name: Department Profile
           link: 'https://www.me.washington.edu/facultyfinder/xu-chen'
