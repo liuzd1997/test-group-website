@@ -27,10 +27,10 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       #appointment_url: 'https://calendly.com'
       contact_links:
-        - icon: comments
+        - icon: browser
           icon_pack: fas
-          name: Discuss on Forum
-          link: 'https://discourse.gohugo.io'
+          name: Department Profile
+          link: 'https://www.me.washington.edu/facultyfinder/xu-chen'
     
       # Automatically link email and phone or display as text?
       autolink: true
