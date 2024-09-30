@@ -9,5 +9,5 @@ The MACS lab participated in the Modeling, Estimation, and Control Conference (M
 
 <!--more-->
 
-![HDD structure. \label{fig:HDD}](./Figures/23-10-12-MECC2.jpg){width=60%}
+![HDD structure. \label{fig:HDD}](./Figures/23-10-12-MECC1.jpg){width=60%}
 Other group members also presenting at the conference: Jinhua Ouyang, Navneet Kaur, Neel Jawale, Xiaohai(Bob) Hu.
