@@ -13,7 +13,7 @@ author_notes:
 
 
 date: '2023-05-31T00:00:00Z'
-doi: ''
+doi: '10.23919/ACC55779.2023.10156141'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-07-03T00:00:00Z'
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10156141'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
