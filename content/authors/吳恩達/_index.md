@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Alice Wu 吳恩達
-
+weight: 10
 # Full name (for SEO)
 first_name: Alice
 last_name: Wu

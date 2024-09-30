@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Nelson Bighetti
-
+weight: 20
 # Full Name (for SEO)
 first_name: Nelson
 last_name: Bighetti
