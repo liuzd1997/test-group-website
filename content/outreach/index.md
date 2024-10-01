@@ -3,52 +3,10 @@ title: Outreach
 date: 2022-10-24
 
 type: landing
-
-sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
 ---
+
+ Equipped with state-of-the-art hardware and software for additive manufacturing, robotics, and active vibration and noise controls, the Machine, Automation, and Control Systems (MACS) laboratory at UConn conducts systematic research on mass customization, short-run and high-value manufacturing, and controls of complex systems. Our in-house built laser-aided powder bed fusion additive manufacturing testbeds provide unique access to understand, control, and recreate the powerful manufacturing process tailored to user needs. Our Universal Robots, KUKA, and educational robot platforms provide a comprehensive suite of hardware for collaborative robotics research and applications. Our customized control algorithms augment the capabilities and intelligence of the machines and facilitate long-range autonomy applications.
+![ \label{fig:outreach1}](./Figures/outreach1.png)
+
+
+
