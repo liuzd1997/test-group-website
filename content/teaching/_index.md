@@ -58,41 +58,5 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: container
 
-  - block: markdown
-    content:
-      title: From Cooking to Advanced Manufacturing — Controls, Automation, and Beyond
-      subtitle: 
-      text: 
-        <div align="center">
-        <table rules="none">
-        <tr>
-        <td>
-        <p> Main contents:<br />• Control engineering or control systems engineering <br />
-        •  Automatic Control <br /> &ensp;– Stability/Safety <br /> &ensp;– Performance <br /> &ensp;– Cost <br />
-        •  Importance of Control Systems <br /> 
-        •  Importance of Control Systems <br /> &ensp;– HDDs <br /> &ensp;– 3D Printing <br /> &ensp;– Challenges in Sensing, Controls, and Platforms <br />
-        •  Powder Bed Fusion <br />
-        •  Additive Manufacturing Innovation Center </p>
-        </td>
-        <td>
-        <img src="./Figures/teaching2.png" style="zoom:50%"  alt=""/>
-        </td>
-        </tr>
-        </table>    
-        </div>
-        <br />{{% cta cta_link="./Files/teaching2.pdf" cta_text="Learn more →" %}}
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: 
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: container
+
 ---
