@@ -5,33 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Eleven Tools in Feedback Control
-      subtitle: Main contents
-      image:
-        filename: welcome.jpg
-      text: |
-        • Basics: Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs
-        • Fundamental limitations
-          – Bandwidth 
-          – Waterbed
-          – Unstable zeros
-          – Magnitude-phase relationship
-        • Practical control engineering
-          – Sampling time
-          – Delays
-          – Time-frequency relationship
-  
+
   - block: markdown
     content:
       title: Eleven Tools in Feedback Control
-      subtitle: 'Main contents'
-      text:
-        • Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
-        • Fundamental limitations <br /> &ensp; – Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
-        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship
+      subtitle: 
+      text: 
+        <div align="center">
+        <table rules="none">
+        <tr>
+        <td>
+        <p> **Main contents:**<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
+        • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
+        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
+        </td>
+        <td>
+        <img src="./Figures/teaching1.png" style="zoom:50%"  alt=""/>
+        </td>
+        </tr>
+        </table>    
+        </div>
+        <br />{{% cta cta_link="./Files/teaching1.pdf" cta_text="Learn more →" %}}
     design:
       columns: '1'
       background:
@@ -49,61 +43,27 @@ sections:
 
   - block: markdown
     content:
-      title: Eleven Tools in Feedback Control
+      title: From Cooking to Advanced Manufacturing — Controls, Automation, and Beyond
       subtitle: 
       text: 
-        #__[Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf)__ <br />
         <div align="center">
         <table rules="none">
         <tr>
         <td>
-        <p> __Main contents:__<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
-        • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
-        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
+        <p> **Main contents:**<br />• Control engineering or control systems engineering <br />
+        •  Automatic Control <br /> &ensp;– Stability/Safety <br /> &ensp;– Performance <br /> &ensp;– Cost <br />
+        •  Importance of Control Systems <br /> 
+        •  Importance of Control Systems <br /> &ensp;– HDDs <br /> &ensp;– 3D Printing <br /> &ensp;– Challenges in Sensing, Controls, and Platforms <br />
+        •  Powder Bed Fusion <br />
+        •  Additive Manufacturing Innovation Center </p>
         </td>
         <td>
-        <img src="./Figures/teaching1-1.png" style="zoom:50%"  alt=""/>
+        <img src="./Figures/teaching2.png" style="zoom:50%"  alt=""/>
         </td>
         </tr>
         </table>    
         </div>
-        <br />{{% cta cta_link="./Files/Eleven-Tools-in-Feedback-Control.pdf" cta_text="Learn more →" %}}
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: 
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: container
-      
-  - block: markdown
-    content:
-      title: Eleven Tools in Feedback Control
-      subtitle: 
-      text: 
-        #__[Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf)__ <br />
-        <div align="center">
-        <table rules="none">
-        <tr>
-        <td>
-        <p> __Main contents:__<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
-        • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
-        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
-        </td>
-        <td>
-        <img src="./Figures/teaching1-1.png" style="zoom:50%"  alt=""/>
-        </td>
-        </tr>
-        </table>    
-        </div>
-        <br />{{% cta cta_link="./Files/Eleven-Tools-in-Feedback-Control.pdf" cta_text="Learn more →" %}}
+        <br />{{% cta cta_link="./Files/teaching2.pdf" cta_text="Learn more →" %}}
     design:
       columns: '1'
       background:
