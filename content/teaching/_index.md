@@ -2,9 +2,6 @@
 title: Courses and Educational Talks
 type: landing
 
-banner: 
-  caption: ''
-  image: 'coders.jpg'
 
 sections:
 
@@ -13,6 +10,24 @@ sections:
       title: Eleven Tools in Feedback Control
       subtitle: 
       text: 
+        <div align="center">
+        <table rules="none">
+        <tr>
+        <td>
+        <p> Main contents:<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
+        • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
+        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
+        </td>
+        <td>
+        <img src="./Figures/teaching1.png" style="zoom:50%"  alt=""/>
+        </td>
+        </tr>
+        </table>    
+        </div>
+        <br />{{% cta cta_link="./Files/teaching1.pdf" cta_text="Learn more →" %}}
+
+        ---
+
         <div align="center">
         <table rules="none">
         <tr>
