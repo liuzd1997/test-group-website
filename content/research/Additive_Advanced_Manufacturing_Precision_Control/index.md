@@ -1,6 +1,7 @@
 ---
 title: Additive and Advanced Manufacturing, Precision Control
 date: 
+type: landing
 ---
 
 The design and control of precision systems form an indispensable part of modern engineering. Recent demands in advanced manufacturing are pushing new levels of investigation and understanding of various aspects of complex precision systems. Some of our efforts are summarized below:
