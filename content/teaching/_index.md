@@ -48,7 +48,7 @@ sections:
 
   - block: markdown
     content:
-      title: From Cooking to Advanced Manufacturing — Controls, Automation, and Beyond
+      title: <small>From Cooking to Advanced Manufacturing — Controls, Automation, and Beyond </small>
       subtitle: 
       text: 
         <div align="center">
