@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 3
+      count: 6
       filters:
         author: ''
         category: ''
@@ -32,8 +32,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '3'
+      view: showcase
+      columns: '2'
   
   - block: markdown
     content:
