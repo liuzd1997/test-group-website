@@ -49,7 +49,7 @@ sections:
 
   - block: markdown
     content:
-      title: [Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf)
+      title: '[Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf)'
       subtitle: 
       text:
         <div align="center">
