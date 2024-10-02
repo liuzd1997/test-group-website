@@ -2,6 +2,10 @@
 title: Courses and Educational Talks
 type: landing
 
+banner: coders.jpg
+  caption: ''
+  image: ''
+
 sections:
 
   - block: markdown
