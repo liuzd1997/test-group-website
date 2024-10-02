@@ -8,6 +8,11 @@ sections:
 
   - block: markdown
     content:
+      title: Courses and Educational Talks
+      text: 
+
+  - block: markdown
+    content:
       title: Eleven Tools in Feedback Control
       subtitle: 
       text: 
