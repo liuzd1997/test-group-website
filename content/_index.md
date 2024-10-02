@@ -34,6 +34,25 @@ sections:
     design:
       view: compact
       columns: '2'
+
+  - block: collection
+    content:
+      title: Research
+      subtitle:
+      text:
+      count: 4
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: research
+    design:
+      view: compact
+      columns: '1'
   
   - block: markdown
     content:
