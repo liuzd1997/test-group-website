@@ -13,7 +13,7 @@ sections:
 
   - block: markdown
     content:
-      title: Eleven Tools in Feedback Control
+      title: <small>Eleven Tools in Feedback Control</small>
       subtitle: 
       text: 
         <div align="center">
