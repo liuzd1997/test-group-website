@@ -33,7 +33,7 @@ sections:
       page_type: post
     design:
       view: showcase
-      columns: '1'
+      columns: '2'
   
   - block: markdown
     content:
