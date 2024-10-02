@@ -24,5 +24,33 @@ sections:
           – Delays
           – Time-frequency relationship
   
-
+  - block: markdown
+    content:
+      title: Eleven Tools in Feedback Control
+      subtitle: 'Main contents'
+      text:
+        • Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs
+        • Fundamental limitations
+          – Bandwidth 
+          – Waterbed
+          – Unstable zeros
+          – Magnitude-phase relationship
+        • Practical control engineering
+          – Sampling time
+          – Delays
+          – Time-frequency relationship
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
