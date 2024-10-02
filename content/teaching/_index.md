@@ -45,5 +45,28 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: card
+      css_class: container
+
+  - block: markdown
+    content:
+      title: Eleven Tools in Feedback Control
+      subtitle: 'Main contents'
+      text:
+        • Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
+        • Fundamental limitations <br /> &ensp; – Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
+        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: 
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: flex-center
 ---
