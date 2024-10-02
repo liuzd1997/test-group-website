@@ -51,13 +51,11 @@ sections:
     content:
       title: Eleven Tools in Feedback Control
       subtitle: 'Main contents'
-      text:
-      <p>
+      text: <p>
       <img src="./Figures/teaching1-1.png" width="400" align="right" />
         • Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
         • Fundamental limitations <br /> &ensp; – Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
-        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship
-      </p>
+        • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
     design:
       columns: '1'
       background:
