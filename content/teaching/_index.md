@@ -49,9 +49,10 @@ sections:
 
   - block: markdown
     content:
-      title: 
+      title: Eleven Tools in Feedback Control
       subtitle: 
-      text: [Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf) <br />
+      text: 
+        #__[Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf)__ <br />
         <div align="center">
         <table rules="none">
         <tr>
@@ -66,6 +67,8 @@ sections:
         </tr>
         </table>    
         </div>
+        |
+        {{% cta cta_link="./Files/Eleven-Tools-in-Feedback-Control.pdf" cta_text="Learn more →" %}}
     design:
       columns: '1'
       background:
