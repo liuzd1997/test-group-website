@@ -49,15 +49,15 @@ sections:
 
   - block: markdown
     content:
-      title: Eleven Tools in Feedback Control
-      subtitle: 'Main contents'
+      title: [Eleven Tools in Feedback Control](./Files/Eleven-Tools-in-Feedback-Control.pdf)
+      subtitle: 
       text:
         <div align="center">
         <table rules="none">
         <tr>
         <td>
-        <p> • Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
-        • Fundamental limitations <br /> &ensp; – Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
+        <p> Main contents:<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
+        • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
         • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
         </td>
         <td>
@@ -79,5 +79,5 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: flex-center
+      css_class: container
 ---
