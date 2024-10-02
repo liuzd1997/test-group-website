@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title: Courses and Educational Talks
 date: 2022-10-24
 type: landing
 
@@ -15,7 +15,7 @@ sections:
         <table rules="none">
         <tr>
         <td>
-        <p> **Main contents:**<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
+        <p> Main contents:<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
         • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
         • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
         </td>
@@ -50,7 +50,7 @@ sections:
         <table rules="none">
         <tr>
         <td>
-        <p> **Main contents:**<br />• Control engineering or control systems engineering <br />
+        <p> Main contents:<br />• Control engineering or control systems engineering <br />
         •  Automatic Control <br /> &ensp;– Stability/Safety <br /> &ensp;– Performance <br /> &ensp;– Cost <br />
         •  Importance of Control Systems <br /> 
         •  Importance of Control Systems <br /> &ensp;– HDDs <br /> &ensp;– 3D Printing <br /> &ensp;– Challenges in Sensing, Controls, and Platforms <br />
