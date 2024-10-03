@@ -23,7 +23,7 @@ Additive manufacturing (AM), a process used to construct 3D parts layer-by-layer
 
 # Thermal modeling, sparse sensing, and integrated controls for precise and reliable powder bed fusion
 Human has developed a natural feedback control system to learn from errors. The process control in additive manufacturing (AM), however, has not yet found a coherent hardware/software architecture to make fast online corrections in a systematic and provably robust way. This “Achilles’ heel of AM technologies” imposes a formidable challenge for quality certification in industrial production. This project exploits system-theoretical approaches towards critically needed higher accuracy and greater reproducibility in powder bed fusion AM processes.
-![ \label{fig:add2}](./Figures/add2.jpg "MACS powder bed fusion additive manufacturing (PBFAM) testbeds")
+![ \label{fig:add2}](./Figures/add2.jpg "MACS powder bed fusion additive manufacturing (PBFAM) testbeds") 
 
 ---
 
