@@ -25,7 +25,7 @@ sections:
           parallax: false
           position: center
           size: cover
-          text_color_light: ture
+          #text_color_light: ture
       spacing:
         padding: ['20px', '40px', '20px', '40px']
       css_class: fullscreen
