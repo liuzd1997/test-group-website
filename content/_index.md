@@ -50,9 +50,11 @@ sections:
       offset: 0
       order: desc
       page_type: research
+      sort_by: weight
+      sort_ascending: false
     design:
       view: compact
-      columns: '2'
+      columns: '1'
   
   - block: markdown
     content:
