@@ -3,10 +3,11 @@ title: Additive and Advanced Manufacturing, Precision Control
 weight: 60
 date: 
 show_date: false
-css_class: fullscreen
+
+design:
+    css_class: fullscreen
 summary: Control in different time scales:&nbsp;from precision laser-material interaction for aerospace and medical application to process reconfiguration and reclaiming materials.
 ---
-
 
 
 <!--more-->
