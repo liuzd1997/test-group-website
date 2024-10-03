@@ -10,11 +10,11 @@ last_name: Yang
 superuser: false
 
 # Role/position
-role: Alumni
+role: Alumni (Ph.D.)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Washington
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,7 +23,7 @@ bio: Postdoc at University of Notre Dame
 education:
   courses:
     - course: Ph.D.
-      institution: University of California, Berkeley
+      institution: University of Washington
       year: 
     - course: M.S.
       institution: Xi’an Jiaotong University
@@ -54,3 +54,4 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+Postdoc at University of Notre Dame
