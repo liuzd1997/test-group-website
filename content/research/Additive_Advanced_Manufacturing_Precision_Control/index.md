@@ -5,7 +5,10 @@ date:
 show_date: false
 summary: Control in different time scales:&nbsp;from precision laser-material interaction for aerospace and medical application to process reconfiguration and reclaiming materials.
 ---
-
+<style>
+    h1 { font: 14pt !important; }
+    p { font: 14pt !important; }
+</style>
 
 <!--more-->
 
@@ -47,4 +50,4 @@ Below are example simulation and experimental results on an active suspension be
 ---
 
 # Vibration Control in HDDs and active suspensions
-Please see details in the [adaptive control and vibration rejection](../adaptive_control_active_vibration_rejection/) section.
+Please see details in the [adaptive control and vibration rejection](../) section.
