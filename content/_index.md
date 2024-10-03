@@ -27,8 +27,8 @@ sections:
           size: cover
           text_color_light: ture
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      #css_class: fullscreen
+        padding: ['20px', '40px', '20px', '40px']
+      css_class: fullscreen
   
   - block: collection
     content:
