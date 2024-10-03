@@ -31,7 +31,7 @@ While high-fidelity finite element modeling and feedback control have been ident
 
 ---
 
-# <small>Past Projects</small>
+# Past Projects
 
 ---
 
