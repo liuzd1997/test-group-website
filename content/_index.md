@@ -53,7 +53,7 @@ sections:
       sort_by: weight
       sort_ascending: false
     design:
-      view: compact
+      view: showcase
       columns: '1'
   
   - block: markdown
