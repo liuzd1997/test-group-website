@@ -29,7 +29,7 @@ sections:
       offset: 0
       # Field to sort by, such as Date or Title
       sort_by: weight
-      sort_ascending: false
+      sort_ascending: true
     design:
       # Choose a listing view
       view: card
