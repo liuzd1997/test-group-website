@@ -25,10 +25,10 @@ sections:
           parallax: false
           position: center
           size: cover
-          text_color_light: true
+          text_color_light: false
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class:
+      css_class: fullscreen
   
   - block: collection
     content:
