@@ -4,6 +4,28 @@ weight: 60
 date: 
 show_date: false
 summary: Control in different time scales:&nbsp;from precision laser-material interaction for aerospace and medical application to process reconfiguration and reclaiming materials.
+
+sections:
+
+  - block: markdown
+    content:
+      title: <small>Eleven Tools in Feedback Control</small>
+      subtitle: 
+      text: Eleven Tools in 
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: 
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: container
 ---
 
 
