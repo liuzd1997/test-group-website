@@ -1,6 +1,7 @@
 ---
 title: Advanced Composite Manufacturing
 date: 
+show_date: false
 ---
 
 OBJECTIVE: from precise and rapid robotic inspection to the making of future materials

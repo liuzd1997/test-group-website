@@ -1,6 +1,7 @@
 ---
 title: Tactile Sensing for Intelligent Manipulation
 date: 
+show_date: false
 ---
 
 Tactile sensing is a crucial sensory modality employed by humans during object manipulation and grasping, enabling them to discern various object characteristics such as stiffness, weight, and surface roughness. In the context of robotic systems, integrating slip detection through tactile sensing can significantly enhance the robot’s ability to maintain a secure grasp during operations with varying system dynamics. Our study identified critical slip detection parameters and develop a real-time slip detection system that triggers prompt interventions to prevent slip.
