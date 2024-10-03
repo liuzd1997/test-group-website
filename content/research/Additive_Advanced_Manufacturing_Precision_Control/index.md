@@ -1,18 +1,15 @@
 ---
-title: Additive and Advanced Manufacturing, Precision Control
+title: <small><small>Additive and Advanced Manufacturing, Precision Control</small></small>
 weight: 60
 date: 
 show_date: false
 summary: Control in different time scales:&nbsp;from precision laser-material interaction for aerospace and medical application to process reconfiguration and reclaiming materials.
+
 ---
-<style>
-    h1 { font: 14pt !important; }
-    p { font: 14pt !important; }
-</style>
 
 <!--more-->
 
-The design and control of precision systems form an indispensable part of modern engineering. Recent demands in advanced manufacturing are pushing new levels of investigation and understanding of various aspects of complex precision systems. Some of our efforts are summarized below:
+<small>The design and control of precision systems form an indispensable part of modern engineering. Recent demands in advanced manufacturing are pushing new levels of investigation and understanding of various aspects of complex precision systems. Some of our efforts are summarized below:</small>
 
 ---
 
