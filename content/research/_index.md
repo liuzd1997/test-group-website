@@ -35,4 +35,5 @@ sections:
       #view: card
       view: showcase
       columns: '2'
+      css_class: fullscreen
 ---
