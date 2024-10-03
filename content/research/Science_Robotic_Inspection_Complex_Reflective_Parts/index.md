@@ -1,6 +1,6 @@
 ---
 title: Science of Robotic Inspection of Complex Reflective Parts
-weight: 40
+weight: 30
 date: 
 show_date: false
 ---
