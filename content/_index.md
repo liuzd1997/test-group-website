@@ -15,6 +15,20 @@ sections:
         <br>
         
         The MACS Lab investigates theories and practice of dynamic systems and controls, to seek better understanding and engineering of the systematic interplay between data, system, and control in machines and automation processes that positively impact our lives.
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   
   - block: collection
     content:
