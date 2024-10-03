@@ -8,9 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        MACS LAB
+        Mechatronics, Automation, and Control Systems Laboratory
       image:
-        filename: welcome.jpg
+        filename: 
       text: |
         <br>
         
@@ -18,8 +18,8 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
-          filename: coders.jpg
+        video:
+          filename: IROS24_2687_VI_fi.mp4
           filters:
             brightness: 1
           parallax: false
