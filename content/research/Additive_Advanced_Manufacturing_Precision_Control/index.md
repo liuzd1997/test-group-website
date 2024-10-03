@@ -23,13 +23,13 @@ Additive manufacturing (AM), a process used to construct 3D parts layer-by-layer
 
 # Thermal modeling, sparse sensing, and integrated controls for precise and reliable powder bed fusion
 Human has developed a natural feedback control system to learn from errors. The process control in additive manufacturing (AM), however, has not yet found a coherent hardware/software architecture to make fast online corrections in a systematic and provably robust way. This “Achilles’ heel of AM technologies” imposes a formidable challenge for quality certification in industrial production. This project exploits system-theoretical approaches towards critically needed higher accuracy and greater reproducibility in powder bed fusion AM processes.
-![MACS powder bed fusion additive manufacturing (PBFAM) testbeds \label{fig:add2}](./Figures/add2.jpg)
+![ \label{fig:add2}](./Figures/add2.jpg "MACS powder bed fusion additive manufacturing (PBFAM) testbeds")
 
 ---
 
 # Closed-loop Simulation Integrating FEM with Feedback Controls
 While high-fidelity finite element modeling and feedback control have been identified key for predicting and engineering part qualities in PBF, existing results in each realm are developed in opposite computational architectures wildly different in time scale. Integrating both realms, we build a first-instance closed-loop simulation framework by utilizing the output signals retrieved from the finite element model (FEM) to directly update the control signals sent to the model. The proposed closed-loop simulation enables testing the limits of advanced controls in PBF and surveying the parameter space fully to generate more predictable part qualities. Along the course of formulating the framework, we verify the FEM and then use the FEM to understand the melt-pool evolution induced by the in-layer thermomechanical interactions. Please see the details in ISFA2020.
-![Scheme of the proposed closed-loop simulation and the results of melt pool geometry \label{fig:add3}](./Figures/add3.jpg)
+![ \label{fig:add3}](./Figures/add3.jpg "Scheme of the proposed closed-loop simulation and the results of melt pool geometry")
 
 ---
 
