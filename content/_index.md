@@ -21,14 +21,14 @@ sections:
         video:
           filename: IROS24_2687_VI_fi.mp4
           filters:
-            brightness: 1
+            brightness: 0.5
           parallax: false
           position: center
           size: cover
           text_color_light: ture
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #css_class: fullscreen
   
   - block: collection
     content:
