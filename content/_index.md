@@ -52,7 +52,7 @@ sections:
       page_type: research
     design:
       view: compact
-      columns: '1'
+      columns: '2'
   
   - block: markdown
     content:
