@@ -3,6 +3,7 @@ title: Additive and Advanced Manufacturing, Precision Control
 weight: 60
 date: 
 show_date: false
+css_class: fullscreen
 summary: Control in different time scales:&nbsp;from precision laser-material interaction for aerospace and medical application to process reconfiguration and reclaiming materials.
 ---
 
@@ -48,4 +49,4 @@ Below are example simulation and experimental results on an active suspension be
 ---
 
 # Vibration Control in HDDs and active suspensions
-[Please see details in the adaptive control and vibration rejection](../Adaptive_Control_Active_Vibration_Rejection/) section.
+Please see details in the [adaptive control and vibration rejection](../) section.
