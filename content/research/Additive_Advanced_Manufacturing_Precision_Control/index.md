@@ -4,11 +4,12 @@ weight: 60
 date: 
 show_date: false
 summary: Control in different time scales:&nbsp;from precision laser-material interaction for aerospace and medical application to process reconfiguration and reclaiming materials.
+
 custom_css: |
   <style>
     .container {
         width: 90%; 
-        max-width: 1200px; 
+        max-width: 500px; 
         margin: 0 auto; 
     }
   </style>
