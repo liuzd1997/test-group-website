@@ -1,5 +1,6 @@
 ---
 title: Tactile Sensing for Intelligent Manipulation
+weight: 50
 date: 
 show_date: false
 ---

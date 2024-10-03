@@ -1,5 +1,6 @@
 ---
 title: Advanced Composite Manufacturing
+weight: 60
 date: 
 show_date: false
 ---

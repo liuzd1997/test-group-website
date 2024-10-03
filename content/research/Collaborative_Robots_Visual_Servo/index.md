@@ -1,5 +1,6 @@
 ---
 title: Collaborative Robots, Visual Servo, Autonomy under Limited Sensing
+weight: 20
 date: 
 show_date: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: Adaptive Control and Active Vibration Rejection
+weight: 30
 #date: false
 show_date: false
 

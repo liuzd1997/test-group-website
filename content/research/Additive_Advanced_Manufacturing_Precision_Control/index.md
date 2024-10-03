@@ -1,5 +1,6 @@
 ---
 title: Additive and Advanced Manufacturing, Precision Control
+weight: 10
 date: 
 show_date: false
 ---
