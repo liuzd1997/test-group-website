@@ -47,4 +47,4 @@ Below are example simulation and experimental results on an active suspension be
 ---
 
 # Vibration Control in HDDs and active suspensions
-Please see details in the [adaptive control and vibration rejection](../Adaptive_Control_Active_Vibration_Rejection/) section.
+Please see details in the [adaptive control and vibration rejection](../adaptive_control_active_vibration_rejection/) section.
