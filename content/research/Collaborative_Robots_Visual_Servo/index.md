@@ -3,8 +3,9 @@ title: Collaborative Robots, Visual Servo, Autonomy under Limited Sensing
 weight: 50
 date: 
 show_date: false
+summary: Robot control and collaborative sensing for systematic fast control under slow e.g. vision feedback.
 ---
-Robot control and collaborative sensing for systematic fast control under slow e.g. vision feedback.
+
 
 
 <!--more-->

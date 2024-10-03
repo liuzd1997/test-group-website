@@ -3,9 +3,10 @@ title: Tactile Sensing for Intelligent Manipulation
 weight: 20
 date: 
 show_date: false
+summary: We introduced a physics-informed, data-driven approach to continuously detect slip using the optical tactile sensor and demonstrated application in real-time slip detection and prevention in a dynamic robotic manipulation task.
 ---
 
-We introduced a physics-informed, data-driven approach to continuously detect slip using the optical tactile sensor and demonstrated application in real-time slip detection and prevention in a dynamic robotic manipulation task.
+
 
 
 <!--more-->

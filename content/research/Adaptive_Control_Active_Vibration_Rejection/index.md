@@ -3,9 +3,9 @@ title: Adaptive Control and Active Vibration Rejection
 weight: 40
 #date: false
 show_date: false
-
+summary: We were among the 3 teams that achieved the top results in an international benchmark on adaptive regulation.
 ---
-We were among the 3 teams that achieved the top results in an international benchmark on adaptive regulation.
+
 
 
 <!--more-->

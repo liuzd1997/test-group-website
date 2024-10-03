@@ -3,9 +3,11 @@ title: Science of Robotic Inspection of Complex Reflective Parts
 weight: 30
 date: 
 show_date: false
+summary: Objective:&nbsp; to build advisor robots enabling comprehensive part inspections & defect identification of complex metallic components.
+
 ---
 
-Objective: to build advisor robots enabling comprehensive part inspections & defect identification of complex metallic components.
+
 
 <!--more-->
 
