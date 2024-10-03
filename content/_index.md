@@ -9,14 +9,14 @@ sections:
     content:
       title: |
         Mechatronics, Automation, and Control Systems Laboratory 
-      {style="color: white"}
+        {style="color: white"}
       image:
         filename: 
       text: |
         <br>
         
         The MACS Lab investigates theories and practice of dynamic systems and controls, to seek better understanding and engineering of the systematic interplay between data, system, and control in machines and automation processes that positively impact our lives.
-      {style="color: white"}
+        {style="color: white"}
     design:
       columns: '1'
       background:
