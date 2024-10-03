@@ -1,6 +1,7 @@
 ---
 title: Adaptive Control and Active Vibration Rejection
 #date: false
+show_date: false
 type: landing
 ---
 
