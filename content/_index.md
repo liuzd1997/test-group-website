@@ -50,6 +50,15 @@ sections:
     design:
       view: compact
       columns: '2'
+      background:
+        image: 
+          filename: MACS_Logo_transparentBg.png
+          filters:
+            brightness: 0.5
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
 
   - block: collection
     content:
