@@ -121,6 +121,7 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}} <br />
         <div align=center>![ \label{fig:Logo}](../assets/media/MACS_Logo_transparentBg.png)
+        <td> <img src="../assets/media/MACS_Logo_transparentBg.png" style="zoom:50%"  alt=""/> </td>
     design:
       columns: '1'
 ---
