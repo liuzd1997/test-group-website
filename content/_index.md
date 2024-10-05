@@ -119,7 +119,8 @@ sections:
       title:
       subtitle:
       text: |
-        <div align="center"> <img src="./Figures/teaching1.png" style="zoom:50%"  alt=""/> </div>
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        <div align="center"> <img src="./Figures/MACS_Logo_transparentBg.png" style="zoom:50%"  alt=""/> </div>
           
     design:
       columns: '1'
