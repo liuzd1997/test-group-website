@@ -129,7 +129,7 @@ sections:
                 • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
                 </td>
                 <td>
-                <img src="../assets/media/coders.jpg" style="zoom:50%"  alt=""/>
+                <img src="./MACS_Logo_transparentBg.png" style="zoom:50%"  alt=""/>
                 </td>
                 </tr>
                 </table>    
