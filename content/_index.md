@@ -119,22 +119,10 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}} <div align=center>![ \label{fig:Logo}](../assets/media/MACS_Logo_transparentBg.png)
-        <div align="center">
-                <table rules="none">
-                <tr>
-                <td>
-                <p> Main contents:<br />• Basics:&nbsp; Arithmetic of LTI systems, Goals of feedback, Loop shaping, Tradeoffs <br />
-                • Fundamental limitations <br /> &ensp;– Bandwidth <br /> &ensp;– Waterbed <br /> &ensp;– Unstable zeros <br /> &ensp;– Magnitude-phase relationship <br />
-                • Practical control engineering <br /> &ensp;– Sampling time <br /> &ensp;– Delays <br /> &ensp;– Time-frequency relationship </p>
-                </td>
-                <td>
-                <img src="./MACS_Logo_transparentBg.png" style="zoom:50%"  alt=""/>
-                </td>
-                </tr>
-                </table>    
-                </div>
-                <br />
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}} <div align=center>![ \label{fig:Logo}](./Figures/MACS_Logo_transparentBg.png)
+        <div align="center"> <img src="./Figures/MACS_Logo_transparentBg.png" style="zoom:50%"  alt=""/>
+
+          
     design:
       columns: '1'
 ---
