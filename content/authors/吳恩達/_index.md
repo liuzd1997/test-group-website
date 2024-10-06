@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Alice Wu 吳恩達
-weight: 10
+weight: 20
 # Full name (for SEO)
 first_name: Alice
 last_name: Wu
@@ -72,6 +72,7 @@ email: ''
 user_groups:
   - Researchers
   - Visitors
+  - Alumni
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
