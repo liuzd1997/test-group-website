@@ -120,7 +120,7 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-        <div align="center"> <img src="./Figures/MACS_Logo_transparentBg.png" style="zoom:50%"  alt=""/> </div>
+        <div align="center"> <img src="./Figures/MACS_Logo_transparentBg.png" style="zoom:30%"  alt=""/> </div>
           
     design:
       columns: '1'
